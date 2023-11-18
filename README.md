@@ -8,7 +8,7 @@
 - **Visualization:** Matplotlib, Seaborn
 - **Database:** MySQL, SQLite
 - **Tools:** Jupyter Notebooks, VS Code
--**Statistics:** Logistic Regression, Decision Trees, Random Forests, Hypothesis Testing, Time Series Analysis, Market-Based Analysis, Data Aggregation, Extraction-Transformation-Load, Marketing Performance Analysis 
+- **Statistics:** Logistic Regression, Decision Trees, Random Forests, Hypothesis Testing, Time Series Analysis, Market-Based Analysis, Data Aggregation, Extraction-Transformation-Load, Marketing Performance Analysis 
 - **Data Analysis:** Tableau, PowerBI, Excel (VLOOKUP), SQL
 - **Machine Learning:** Scikit-learn, TensorFlow
 - **Database Management:** Snowflake, AWS, MySQL, Microsoft Azure, Oracle
